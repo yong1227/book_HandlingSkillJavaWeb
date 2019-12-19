@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+D:\YONG\dev\webDev\spring framework from java\java web handling skil _ book\code\test1_191214\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1365596916.index

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>여러가지 input 타입 표시창</title>
+</head>
+<body>
+
+	<form action="input" method="get" name="frmInput">
+	
+	
+	</form>
+
+</body>
+</html>

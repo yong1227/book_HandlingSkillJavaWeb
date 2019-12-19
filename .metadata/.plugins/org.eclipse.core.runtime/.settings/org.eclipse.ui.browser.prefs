@@ -1,0 +1,4 @@
+browser-choice=1
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<web-browsers current\="2">\r\n<system/>\r\n<external location\="C\:\\Program Files\\Internet Explorer\\iexplore.exe" name\="Internet Explorer"/>\r\n<external location\="C\:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe" name\="Chrome"/>\r\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=file\:/D\:/YONG/dev/webDev/spring%20framework%20from%20java/java%20web%20handling%20skil%20_%20book/code/test1_191214/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1576452955765/index.html|*|file\:/C\:/Users/yong/eclipse/jee-2019-09/eclipse/../../../.p2/pool/plugins/org.springsource.ide.eclipse.commons.gettingstarted_3.9.10.201909170647-RELEASE/resources/welcome/index.html|*|http\://localhost\:8080/pro05/first|*|
